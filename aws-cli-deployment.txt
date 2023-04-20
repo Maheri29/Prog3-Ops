@@ -1,0 +1,1 @@
+aws cloudformation deploy --stack-name STD21069 --template-file STD21069.yaml --capabilities CAPABILITY_NAMED_IAM
